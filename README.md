@@ -8,7 +8,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-004B87?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
-![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -38,6 +38,22 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+
+## Machine Learning & Deep Learning Badges
+
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-00BFAE?style=for-the-badge&logo=python&logoColor=white)
+![Convolutional Neural Networks](https://img.shields.io/badge/Convolutional_Neural_Networks-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-6C2C91?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+## My HackerRank Badges
+
+![Python](https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg)
+![SQL](https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg)
+
+
 
 
 ## 📫 Contact Me
