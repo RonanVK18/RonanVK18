@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # Hi there, I'm Ronan Varghese Koshy 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ronanvarghese&style=flat-square&color=blue)
@@ -38,14 +30,14 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-002855?style=for-the-badge&logo=ibm&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![BitBucket](https://img.shields.io/badge/BitBucket-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
 ## 📫 Contact Me
