@@ -37,7 +37,7 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
-## Machine Learning & Deep Learning Frameworks
+## 🧠 Machine Learning & Deep Learning Frameworks
 
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-00BFAE?style=for-the-badge&logo=python&logoColor=white)
 ![Convolutional Neural Networks](https://img.shields.io/badge/Convolutional_Neural_Networks-FF6F00?style=for-the-badge&logo=python&logoColor=white)
