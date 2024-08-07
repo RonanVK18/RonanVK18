@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-004B87?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-004B87?style=for-the-badge&logo=microsoft&logoColor=white)
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -17,9 +17,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-0170FE?style=for-the-badge&logo=LightGBM&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logo=catboost&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6133BC?style=for-the-badge&logo=qiskit&logoColor=white)
 
 
@@ -31,28 +28,31 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+![Oracle MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Salesforce Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Atlassian JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
-## Machine Learning & Deep Learning Badges
+## Machine Learning & Deep Learning Frameworks
 
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-00BFAE?style=for-the-badge&logo=python&logoColor=white)
 ![Convolutional Neural Networks](https://img.shields.io/badge/Convolutional_Neural_Networks-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![LSTM](https://img.shields.io/badge/LSTM-6C2C91?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-## My HackerRank Badges
-
-![Python](https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg)
-![SQL](https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg)
-
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![Regression Models](https://img.shields.io/badge/Regressors-673AB7?style=for-the-badge&logo=python&logoColor=white)
+![MLP](https://img.shields.io/badge/MLP-FF5722?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-0170FE?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge&logo=python&logoColor=white)
+![Ensemble Models](https://img.shields.io/badge/Ensemble_Models-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![Recurrent Neural Networks](https://img.shields.io/badge/RNN-673AB7?style=for-the-badge&logo=python&logoColor=white)
+![Support Vector Machines](https://img.shields.io/badge/Support_Vector_Machines-009688?style=for-the-badge&logo=python&logoColor=white)
+![K-Nearest Neighbors](https://img.shields.io/badge/K_Nearest_Neighbors-FF5722?style=for-the-badge&logo=python&logoColor=white)
+![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-FF9800?style=for-the-badge&logo=python&logoColor=white)
+![Principal Component Analysis](https://img.shields.io/badge/PCA-8BC34A?style=for-the-badge&logo=python&logoColor=white)
 
 
 
