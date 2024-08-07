@@ -44,16 +44,15 @@
 ![LSTM](https://img.shields.io/badge/LSTM-6C2C91?style=for-the-badge&logo=python&logoColor=white)
 ![Decision Trees](https://img.shields.io/badge/Decision_Trees-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 ![Regression Models](https://img.shields.io/badge/Regressors-673AB7?style=for-the-badge&logo=python&logoColor=white)
-![MLP](https://img.shields.io/badge/MLP-FF5722?style=for-the-badge&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-0170FE?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge&logo=python&logoColor=white)
+![MLP Regressor](https://img.shields.io/badge/MLP-FF5722?style=for-the-badge&logo=python&logoColor=white)
 ![Ensemble Models](https://img.shields.io/badge/Ensemble_Models-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 ![Recurrent Neural Networks](https://img.shields.io/badge/RNN-673AB7?style=for-the-badge&logo=python&logoColor=white)
 ![Support Vector Machines](https://img.shields.io/badge/Support_Vector_Machines-009688?style=for-the-badge&logo=python&logoColor=white)
 ![K-Nearest Neighbors](https://img.shields.io/badge/K_Nearest_Neighbors-FF5722?style=for-the-badge&logo=python&logoColor=white)
 ![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-FF9800?style=for-the-badge&logo=python&logoColor=white)
 ![Principal Component Analysis](https://img.shields.io/badge/PCA-8BC34A?style=for-the-badge&logo=python&logoColor=white)
-
+![LightGBM](https://img.shields.io/badge/LightGBM-0170FE?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 📫 Contact Me
